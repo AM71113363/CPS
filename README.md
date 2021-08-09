@@ -1,6 +1,3 @@
-<p align="center">
-<img align="center" width="669" height="337" src="https://github.com/AM71113363/logo.png">
-</p>
 
 # CPS (Clicks Per Second)
 -----
