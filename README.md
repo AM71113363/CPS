@@ -7,7 +7,7 @@
 2. Run CPS.exe (32Bit Windows).<br>
 3. Click [ Start ].<br>
 4. Click as fast as you can in the Clicking_Area for 5 seconds<br>
-5. You will get the Result of each Click + the average value.<br>
+5. You will get the Result of 10 Clicks + the average value.<br>
 
 ## NOTE
 Clicking [ Start ] will reset the Counter<br>
