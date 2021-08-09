@@ -1,5 +1,5 @@
 
-# CPS (Clicks Per Second)
+# CPS (Clicks / Second)
 -----
 
 ## How to use it?<br>
